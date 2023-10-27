@@ -1,0 +1,15 @@
+{
+  "name": "robot-control-server",
+  "version": "1.0.0",
+  "description": "a simulation of the robot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Houdong Liang, Louis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  }
+}
